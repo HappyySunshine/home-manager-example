@@ -10,6 +10,7 @@
         qbittorrent
         neofetch
         spotify
+        discord
     ];
       programs.zsh={
           enable = true;
