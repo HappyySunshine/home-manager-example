@@ -12,6 +12,8 @@
         spotify
         discord
     ];
+    imports= [./nvim ./alacritty.nix];
+
       programs.zsh={
           enable = true;
             autosuggestion = {
